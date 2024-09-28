@@ -1,6 +1,7 @@
 # Internship Repository
 
-Welcome to my internship repository! This repository contains important folders related to my ongoing internship tasks, including tests conducted, daily practical tasks, and assigned tasks.
+Welcome to my internship repository!
+This repository contains important folders related to my ongoing internship tasks, including tests conducted, daily practical tasks, and assigned tasks.
 
 ## Folder Structure
 
