@@ -1,34 +1,22 @@
-# HTML Basics
+# Internship Repository
 
-This project introduces the basics of HTML (HyperText Markup Language), which is used to create and structure webpages. Below are some key topics covered:
+Welcome to my internship repository!  
+This repository contains important folders related to my ongoing internship tasks, including tests conducted, daily practical tasks, and assigned tasks.
 
-### 1. **What is HTML?**
-HTML stands for **HyperText Markup Language**, which is the standard language used to create webpages. It consists of various **HTML tags** and **attributes** that define the structure and formatting of web content, such as headings, paragraphs, links, images, lists, and more.
+## Folder Structure
 
-### 2. **Common HTML Tags:**
-HTML tags define the different elements of a webpage. Some of the commonly used tags include:
-- `<html></html>` - The root of an HTML document.
-- `<table></table>` - Defines a table.
-- `<form></form>` - Creates a form for user input.
-- `<span></span>` - Used for grouping inline-elements.
-- `<ul></ul>` - Creates an unordered list.
-- `<p></p>` - Defines a paragraph.
-- `<head></head>` - Contains meta information about the document.
-- `<div></div>` - Defines a division or section in a document.
-- `<h1></h1>` - Represents the largest heading.
+This repository is organized into the following key folders:
 
-### 3. **Sample HTML Webpage:**
-Below is a simple HTML program to create a webpage:
+- **[Test1](https://github.com/arunima-s/GITHUB-ARUNIMA_SCIFOR/blob/main/Test1.html)**: Contain files related to the first test conducted on **14/09/2024**.
+- **[Test2](https://github.com/arunima-s/GITHUB-ARUNIMA_SCIFOR/tree/main/Test)**: Contain files related to the second test conducted on **21/09/2024**.
+- **[Test3](https://github.com/arunima-s/GITHUB-ARUNIMA_SCIFOR/tree/main/Test3)**: Contain files related to the third test conducted on **28/09/2024**.
+- **[Daily Tasks](https://github.com/arunima-s/GITHUB-ARUNIMA_SCIFOR/tree/main/daily%20task)**: Includes tasks  performed daily as part of practical training.
+- **[Assignments](https://github.com/arunima-s/GITHUB-ARUNIMA_SCIFOR/tree/main/Assignments)**: Contains assignments that have been assigned for completion.
 
-```html
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Test-1</title>
-</head>
-<body>
-  <h1>Hello!</h1>
-</body>
-</html>
+Feel free to click on the folder names above to view their contents.
+
+## Purpose
+
+This repository serves as a comprehensive record of the tests, tasks, and assignments completed during my internship. It showcases my progress and learning experiences.
+
+Thank you for visiting my repository!
