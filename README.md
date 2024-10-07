@@ -7,7 +7,7 @@ This repository contains important folders related to my ongoing internship task
 
 This repository is organized into the following key folders:
 
-- **[Test1](https://github.com/arunima-s/GITHUB-ARUNIMA_SCIFOR/tree/main/Test)**: Contain files related to the test conducted 
+- **[Test](https://github.com/arunima-s/GITHUB-ARUNIMA_SCIFOR/tree/main/Test)**: Contain files related to the test conducted 
 - **[Daily Tasks](https://github.com/arunima-s/GITHUB-ARUNIMA_SCIFOR/tree/main/daily%20task)**: Includes tasks  performed daily as part of practical training.
 - **[Assignments](https://github.com/arunima-s/GITHUB-ARUNIMA_SCIFOR/tree/main/Assignments)**: Contains assignments that have been assigned for completion.
 
